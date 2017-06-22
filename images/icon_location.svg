@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="24px" viewBox="0 0 16 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>iconmonstr-location-1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="8.8817842e-16 23.94 16 23.94 16 0 0 0 0 23.94"></polygon>
+    </defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.393455616">
+        <g id="Desktop-HD-Copy-4" transform="translate(-1306.000000, -108.000000)">
+            <g id="Group" transform="translate(1174.000000, 105.000000)">
+                <g id="iconmonstr-location-1" transform="translate(132.000000, 3.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-2"></g>
+                    <path d="M8,11 C6.343,11 5,9.657 5,8 C5,6.343 6.343,5 8,5 C9.657,5 11,6.343 11,8 C11,9.657 9.657,11 8,11 Z M8,0 C3.802,0 0,3.403 0,7.602 C0,11.8 3.469,16.812 8,24 C12.531,16.812 16,11.8 16,7.602 C16,3.403 12.198,0 8,0 L8,0 Z" id="Fill-1" fill="#1B1819" mask="url(#mask-2)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
